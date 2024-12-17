@@ -9,9 +9,9 @@ The data for this analysis came as geojsons downloaded from Open Data Philly, co
 
 <img src="citywide_bivariate_choropleth.png" alt="Bivariate Choropleth of Philadelphia Vacancy and Permits" width="300"/>
 
-<iframe src="citywide_bivariate_cloropleth.png" height="500" width="500"></iframe>
+<iframe src="citywide_bivariate_choropleth.png" height="500" width="500"></iframe>
 
-<iframe src="north_bivariate_cloropleth.png" height="500" width="500"></iframe>
+<iframe src="north_bivariate_choropleth.png" height="500" width="500"></iframe>
 
 To see this map as its own web page, click [here](phila_pools2024.html)
 
