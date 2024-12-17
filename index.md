@@ -21,7 +21,6 @@ To see this map as its own web page, click [here](north_bivariate_choropleth.png
 
 Explore the data yourself in the map below, where you can see the in-fill blocks (>20 vacancies in 2018, >20 permits since 2018), individual permits and vacant parcels, as well as tract-level percentage of households living in poverty (below 200% of the Federal Poverty Line).
 
-INTERACTIVE MAP UNDER CONSTRUCTION
 <iframe src="phila-infill.html" height="800" width="800"></iframe>
 To see this map as its own web page, click [here](phila-infill.html)
 
