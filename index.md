@@ -10,17 +10,17 @@ The data for this analysis came as geojsons downloaded from Open Data Philly, co
 The first map produced is a bivariate choropleth showing both 2018 vacancy and permits since 2018 for the entire city. This form is particularly useful because it makes typologies very visually apparent. Most of the city falls in the grey, stable category. Many parts of the Northwest and North fall in a category of continued high vacancy. A few areas with unique redevelopment circumstances have few vacant parcels and many permits. Finally, incidences of the in-fill category, where many vacant lots existed in 2018 and many have since been developed, occur on a small enough scale to be almost invisible.
 
 <img src="citywide_bivariate_choropleth.png" alt="Bivariate Choropleth of Philadelphia Vacancy and Permits" width="600"/>
-To see this image as its own web page, click [here](citywide_bivariate_choropleth.png)
+
 
 Most of these in-fill areas fall in the North, so a detailed map of North Philadelphia is shown below. Many in-fill blocks occur just south of Cecil B Moore Avenue near 27th Street, and east of Broad Street between Cecil B Moore Avenue and Germantown Avenue. 
 
 <img src="north_bivariate_choropleth.png" alt="Bivariate Choropleth of Philadelphia Vacancy and Permits" width="600"/>
-To see this image as its own web page, click [here](north_bivariate_choropleth.png)
 
 These clustered in-fill blocks in the North show a pattern, overlapping significantly (MAYBE) with tract-level areas of high poverty.
 
 INTERACTIVE MAP UNDER CONSTRUCTION
 <iframe src="citywide_bivariate_choropleth.png" height="500" width="500"></iframe>
+To see this map as its own web page, click [here](phila_pools2024.html)
 
 
 
