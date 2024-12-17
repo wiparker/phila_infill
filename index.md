@@ -7,7 +7,7 @@ This project emerged from the observation that many parts of Philadelphia with a
 
 The data for this analysis came as geojsons downloaded from Open Data Philly, courtesy of the City of Philadelphia. Vacant lot data for 2018 is current as of 2018, and the building permit data contains entries dated well into 2024. Data processing and data quality issues are described at the end.
 
-<img src="citywide_bivariate_cloropleth.png" alt="Bivariate Cloropleth of Philadelphia Vacancy and Permits" width="300"/>
+<img src="citywide_bivariate_choropleth.png" alt="Bivariate Choropleth of Philadelphia Vacancy and Permits" width="300"/>
 
 <iframe src="citywide_bivariate_cloropleth.png" height="500" width="500"></iframe>
 
