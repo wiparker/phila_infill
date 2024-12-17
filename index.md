@@ -1,4 +1,4 @@
-## Philadelphia Infill Analysis
+# Philadelphia Infill Analysis
 
 Will Parker — Command-Line GIS with Will Payne — Fall 2024 — Bloustein School @ Rutgers
 
@@ -15,7 +15,7 @@ To see this map as its own web page, click [here](phila_pools2024.html)
 
 
 
-# Data Quality and Processing Notes
+## Data Quality and Processing Notes
 
 Georeferenced Building Permit data for the city of Philadelphia was available as point data for the periods 2007-2015 and 2016-present, and could be sorted for only permits authorizing new construction. Land Use data for the period 2012-2018 was also available on a parcel level as polygon data. While filtering Land Use to only vacant lands was a simple line of code, the building permit data was a substantial challenge. A project description was available for each permit, and I used this to piece together the combinations of two different fields ("permitdesc" and "typeofwork") which yielded only permits authorizing new residential construction. The meanings were not immediate obvious--for example, homes were classified as typeofwork ENTIRE, but I also had to include pre-fabricated homes using typeofwork MOD/IN.
 
