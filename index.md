@@ -9,7 +9,9 @@ The data for this analysis came as geojsons downloaded from Open Data Philly, co
 
 
 
-<iframe src="phila_pools2024.html" height="500" width="500"></iframe>
+<iframe src="citywide_bivariate_cloropleth.png" height="500" width="500"></iframe>
+
+<iframe src="north_bivariate_cloropleth.png" height="500" width="500"></iframe>
 
 To see this map as its own web page, click [here](phila_pools2024.html)
 
