@@ -22,8 +22,8 @@ To see this map as its own web page, click [here](north_bivariate_choropleth.png
 These clustered in-fill blocks in the North show a pattern, overlapping significantly (MAYBE) with tract-level areas of high poverty.
 
 INTERACTIVE MAP UNDER CONSTRUCTION
-<iframe src="citywide_bivariate_choropleth.png" height="500" width="500"></iframe>
-To see this map as its own web page, click [here](phila_pools2024.html)
+<iframe src="phila-infill.html" height="500" width="500"></iframe>
+To see this map as its own web page, click [here](phila-infill.html)
 
 
 
