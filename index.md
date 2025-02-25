@@ -7,11 +7,11 @@ This project examines patterns of in-fill development since 2018 in Philadelphia
 
 • Stable low-vacancy, blocks with low starting vacancy and little development
 
-• Unique blocks, blocks with low starting vacancy yet many permits for new development
-
 • Stable high-vacancy, blocks with high starting vacancy and little development
 
-**•In-fill hotspots, blocks with high starting vacancy and many permits for new development**
+• Atypical blocks, blocks with low starting vacancy yet many permits for new development
+
+**• In-fill hotspots, blocks with high starting vacancy and many permits for new development**
 
 This project emerged from the observation that many parts of Philadelphia with a high proportion of vacant lots have been filling in over the last few years, while other high-vacancy areas have remained stable. The analysis is a first step to understanding why some areas are filling in while others remain unchanged.
 
