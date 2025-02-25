@@ -4,10 +4,14 @@ Will Parker — Command-Line GIS with Professor Will Payne — Fall 2024 — Blo
 
 
 This project examines patterns of in-fill development since 2018 in Philadelphia on the city block level. It combines parcel vacancy rates in the baseline year of 2018 with residential permitting data since that year. The project combines these factors to define 4 typologies:
+
 • Stable low-vacancy, blocks with low starting vacancy and little development
+
 • Unique blocks, blocks with low starting vacancy yet many permits for new development
+
 • Stable high-vacancy, blocks with high starting vacancy and little development
-•** In-fill hotspots, blocks with high starting vacancy and many permits for new development**
+
+**•In-fill hotspots, blocks with high starting vacancy and many permits for new development**
 
 This project emerged from the observation that many parts of Philadelphia with a high proportion of vacant lots have been filling in over the last few years, while other high-vacancy areas have remained stable. The analysis is a first step to understanding why some areas are filling in while others remain unchanged.
 
